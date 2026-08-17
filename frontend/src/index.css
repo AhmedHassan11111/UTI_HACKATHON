@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'IBM Plex Mono', monospace;
+
+  --color-bg-light: #F7F8F7;
+  --color-surface-light: #FFFFFF;
+  --color-text-light: #12262F;
+  --color-primary-light: #2F7A72;
+  --color-accent-light: #C79A3D;
+  --color-border-light: #E2E6E4;
+  --color-alert-light: #B5453A;
+
+  --color-bg-dark: #0E1A1F;
+  --color-surface-dark: #142229;
+  --color-text-dark: #EDF3F1;
+  --color-primary-dark: #4FA69A;
+  --color-accent-dark: #D9AE57;
+  --color-border-dark: #22343B;
+  --color-alert-dark: #D9AE57;
+
+  --color-bg: var(--color-bg-light);
+  --color-surface: var(--color-surface-light);
+  --color-text: var(--color-text-light);
+  --color-primary: var(--color-primary-light);
+  --color-accent: var(--color-accent-light);
+  --color-border: var(--color-border-light);
+  --color-alert: var(--color-alert-light);
+
+  --color-dipstick-negative: #E5E7EB;
+  --color-dipstick-trace: #A3BFFa;
+  --color-dipstick-small: #60A5FA;
+  --color-dipstick-moderate: #34D399;
+  --color-dipstick-large: #10B981;
+}
+
+.dark {
+  --color-bg: var(--color-bg-dark);
+  --color-surface: var(--color-surface-dark);
+  --color-text: var(--color-text-dark);
+  --color-primary: var(--color-primary-dark);
+  --color-accent: var(--color-accent-dark);
+  --color-border: var(--color-border-dark);
+  --color-alert: var(--color-alert-dark);
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-text antialiased;
+    font-family: var(--font-sans);
+  }
+}
