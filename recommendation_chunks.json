@@ -1,127 +1,168 @@
 [
   {
     "recommendation_id": "1.1.1",
-    "pages": [],
+    "pages": [
+      5
+    ],
     "text": "1.1.1 Be aware that lower urinary tract infection (UTI) is an infection of the bladder \nusually caused by bacteria from the gastrointestinal tract entering the urethra \nand travelling up to the bladder."
   },
   {
     "recommendation_id": "1.1.2",
-    "pages": [],
-    "text": "1.1.2 Give advice about managing symptoms with self-care (see the recommendations \non self-care) to all people with lower UTI. \nTreatment for women with lower UTI who are not pregnant"
+    "pages": [
+      5
+    ],
+    "text": "1.1.2 Give advice about managing symptoms with self-care (see the recommendations \non self-care) to all people with lower UTI."
   },
   {
     "recommendation_id": "1.1.3",
-    "pages": [],
+    "pages": [
+      5
+    ],
     "text": "1.1.3 Consider a back-up antibiotic prescription (to use if symptoms do not start to \nimprove within 48 hours or worsen at any time) or an immediate antibiotic \nprescription (see the recommendations on choice of antibiotic) for women with \nlower UTI who are not pregnant. Take account of: \n• the severity of symptoms \n• the risk of developing complications, which is higher in people with known or \nsuspected structural or functional abnormality of the genitourinary tract or \nimmunosuppression \n• the evidence for back-up antibiotic prescriptions, which was only in non-\npregnant women with lower UTI where immediate antibiotic treatment was \nnot considered necessary \n• previous urine culture and susceptibility results \n• previous antibiotic use, which may have led to resistant bacteria \n• preferences of the woman for antibiotic use."
   },
   {
     "recommendation_id": "1.1.4",
     "pages": [
+      5,
       6
     ],
-    "text": "1.1.4 If a urine sample has been sent for culture and susceptibility testing and an \nantibiotic prescription has been given: \n\n• review the choice of antibiotic when microbiological results are available, and \n• change the antibiotic according to susceptibility results if bacteria are \nresistant and symptoms are not already improving, using a narrow-spectrum \nantibiotic wherever possible. \nTreatment for pregnant women and men with lower UTI"
+    "text": "1.1.4 If a urine sample has been sent for culture and susceptibility testing and an \nantibiotic prescription has been given: \n\n• review the choice of antibiotic when microbiological results are available, and \n• change the antibiotic according to susceptibility results if bacteria are \nresistant and symptoms are not already improving, using a narrow-spectrum \nantibiotic wherever possible."
   },
   {
     "recommendation_id": "1.1.5",
-    "pages": [],
+    "pages": [
+      6
+    ],
     "text": "1.1.5 Offer an immediate antibiotic prescription (see the recommendations on choice of \nantibiotic) to pregnant women and men with lower UTI. Take account of: \n• previous urine culture and susceptibility results \n• previous antibiotic use, which may have led to resistant bacteria."
   },
   {
     "recommendation_id": "1.1.6",
-    "pages": [],
+    "pages": [
+      6
+    ],
     "text": "1.1.6 Obtain a midstream urine sample from pregnant women and men before \nantibiotics are taken, and send for culture and susceptibility testing."
   },
   {
     "recommendation_id": "1.1.7",
-    "pages": [],
+    "pages": [
+      6
+    ],
     "text": "1.1.7 For pregnant women with lower UTI: \n• review the choice of antibiotic when microbiological results are available, and \n• change the antibiotic according to susceptibility results if the bacteria are \nresistant, using a narrow-spectrum antibiotic wherever possible."
   },
   {
     "recommendation_id": "1.1.8",
-    "pages": [],
+    "pages": [
+      6
+    ],
     "text": "1.1.8 For men with lower UTI: \n• review the choice of antibiotic when microbiological results are available, and \n• change the antibiotic according to susceptibility results if the bacteria are \nresistant and symptoms are not already improving, using a narrow-spectrum \nantibiotic wherever possible. \nTreatment for children and young people under 16 years with \nlower UTI"
   },
   {
     "recommendation_id": "1.1.9",
     "pages": [
+      6,
       7
     ],
     "text": "1.1.9 Obtain a urine sample from children and young people with lower UTI before \n\nantibiotics are taken, and dipstick test or send for culture and susceptibility \ntesting in line with the NICE guideline on urinary tract infection in under 16s."
   },
   {
     "recommendation_id": "1.1.10",
-    "pages": [],
+    "pages": [
+      7
+    ],
     "text": "1.1.10 Assess and manage children under 5 with lower UTI who present with fever as \noutlined in the NICE guideline on fever in under 5s."
   },
   {
     "recommendation_id": "1.1.11",
-    "pages": [],
+    "pages": [
+      7
+    ],
     "text": "1.1.11 Offer an immediate antibiotic prescription (see the recommendations on choice of \nantibiotic) for children and young people under 16 years with lower UTI. Take \naccount of: \n• previous urine culture and susceptibility results \n• previous antibiotic use, which may have led to resistant bacteria."
   },
   {
     "recommendation_id": "1.1.12",
-    "pages": [],
+    "pages": [
+      7
+    ],
     "text": "1.1.12 If a urine sample has been sent for culture and sensitivity testing when an \nantibiotic prescription has been given: \n• review the choice of antibiotic when microbiological results are available, and \n• change the antibiotic according to susceptibility results if the bacteria are \nresistant and symptoms are not already improving, using a narrow-spectrum \nantibiotic wherever possible. \nAdvice for all people with lower UTI when an antibiotic \nprescription is given"
   },
   {
     "recommendation_id": "1.1.13",
     "pages": [
+      7,
       8
     ],
     "text": "1.1.13 When a back-up antibiotic prescription is given, as well as the general advice on \nself-care, give advice about: \n• an antibiotic not being needed immediately \n• using the back-up prescription if symptoms do not start to improve within \n48 hours or if they worsen at any time \n• possible adverse effects of antibiotics, particularly diarrhoea and nausea \n• seeking medical help if antibiotics are taken and: \n－ symptoms worsen rapidly or significantly at any time or \n\n－ symptoms do not start to improve within 48 hours of taking the antibiotic \nor \n－ the person becomes systemically very unwell."
   },
   {
     "recommendation_id": "1.1.14",
-    "pages": [],
-    "text": "1.1.14 When an immediate antibiotic prescription is given, as well as the general advice \non self-care, give advice about: \n• possible adverse effects of the antibiotic, particularly diarrhoea and nausea \n• seeking medical help if symptoms worsen rapidly or significantly at any time, \ndo not start to improve within 48 hours of taking the antibiotic, or the person \nbecomes systemically very unwell. \nReassessment"
+    "pages": [
+      8
+    ],
+    "text": "1.1.14 When an immediate antibiotic prescription is given, as well as the general advice \non self-care, give advice about: \n• possible adverse effects of the antibiotic, particularly diarrhoea and nausea \n• seeking medical help if symptoms worsen rapidly or significantly at any time, \ndo not start to improve within 48 hours of taking the antibiotic, or the person \nbecomes systemically very unwell."
   },
   {
     "recommendation_id": "1.1.15",
-    "pages": [],
-    "text": "1.1.15 Reassess if symptoms worsen rapidly or significantly at any time, or do not start \nto improve within 48 hours of taking the antibiotic, taking account of: \n• other possible diagnoses \n• any symptoms or signs suggesting a more serious illness or condition, such \nas pyelonephritis \n• previous antibiotic use, which may have led to resistant bacteria. \nSend a urine sample for culture and susceptibility testing if this has not \nalready been done and review treatment when results are available (see \nrecommendations 1.1.4, 1.1.7, 1.1.8 and 1.1.12). \nReferral"
+    "pages": [
+      8
+    ],
+    "text": "1.1.15 Reassess if symptoms worsen rapidly or significantly at any time, or do not start \nto improve within 48 hours of taking the antibiotic, taking account of: \n• other possible diagnoses \n• any symptoms or signs suggesting a more serious illness or condition, such \nas pyelonephritis \n• previous antibiotic use, which may have led to resistant bacteria. \nSend a urine sample for culture and susceptibility testing if this has not \nalready been done and review treatment when results are available (see \nrecommendations 1.1.4, 1.1.7, 1.1.8 and 1.1.12)."
   },
   {
     "recommendation_id": "1.1.16",
     "pages": [
+      8,
       9
     ],
     "text": "1.1.16 Refer people aged 16 years and over with lower UTI to hospital if they have any \nsymptoms or signs suggesting a more serious illness or condition (for example, \nsepsis)."
   },
   {
     "recommendation_id": "1.1.17",
-    "pages": [],
-    "text": "1.1.17 Refer children or young people with lower UTI to hospital in line with the NICE \nguideline on urinary tract infection in under 16s. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on antibiotics. \nFull details of the evidence and the committee's discussion are in the evidence review. \n1.2 Managing asymptomatic bacteriuria"
+    "pages": [
+      9
+    ],
+    "text": "1.1.17 Refer children or young people with lower UTI to hospital in line with the NICE \nguideline on urinary tract infection in under 16s. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on antibiotics."
   },
   {
     "recommendation_id": "1.2.1",
-    "pages": [],
+    "pages": [
+      9
+    ],
     "text": "1.2.1 Be aware that asymptomatic bacteriuria: \n• is significant levels of bacteria (greater than 105\n colony forming units/ml) in \nthe urine with no symptoms of UTI \n• is not routinely screened for, or treated, in women who are not pregnant, \nmen, young people and children \n• is treated with antibiotics in pregnant women because it is a risk factor for \npyelonephritis and premature delivery (see the recommendations on choice \nof antibiotic)."
   },
   {
     "recommendation_id": "1.2.2",
     "pages": [
+      9,
       10
     ],
-    "text": "1.2.2 Offer an immediate antibiotic prescription to pregnant women with asymptomatic \nbacteriuria, taking account of: \n• recent urine culture and susceptibility results \n• previous antibiotic use, which may have led to resistant bacteria. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on antibiotics. \nFull details of the evidence and the committee's discussion are in the evidence review. \n\n1.3 Self-care"
+    "text": "1.2.2 Offer an immediate antibiotic prescription to pregnant women with asymptomatic \nbacteriuria, taking account of: \n• recent urine culture and susceptibility results \n• previous antibiotic use, which may have led to resistant bacteria. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on antibiotics."
   },
   {
     "recommendation_id": "1.3.1",
-    "pages": [],
+    "pages": [
+      10
+    ],
     "text": "1.3.1 Advise people with lower UTI about using paracetamol for pain, or if preferred \nand suitable ibuprofen."
   },
   {
     "recommendation_id": "1.3.2",
-    "pages": [],
+    "pages": [
+      10
+    ],
     "text": "1.3.2 Advise people with lower UTI about drinking enough fluids to avoid dehydration."
   },
   {
     "recommendation_id": "1.3.3",
-    "pages": [],
-    "text": "1.3.3 Be aware that no evidence was found on cranberry products or urine alkalinising \nagents to treat lower UTI. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on self-care. \nFull details of the evidence and the committee's discussion are in the evidence review. \n1.4 Choice of antibiotic"
+    "pages": [
+      10
+    ],
+    "text": "1.3.3 Be aware that no evidence was found on cranberry products or urine alkalinising \nagents to treat lower UTI. \nFor a short explanation of why the committee made these recommendations, see the \nevidence and committee discussion on self-care."
   },
   {
     "recommendation_id": "1.4.1",
-    "pages": [],
+    "pages": [
+      10
+    ],
     "text": "1.4.1 When prescribing antibiotic treatment for lower UTI, take account of local \nantimicrobial resistance data and follow: \n• table 1 for non-pregnant women aged 16 years and over \n• table 2 for pregnant women aged 12 years and over \n• table 3 for men aged 16 years and over \n• table 4 for children and young people under 16 years."
   }
 ]
