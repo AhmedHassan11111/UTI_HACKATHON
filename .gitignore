@@ -9,13 +9,6 @@ venv/
 .venv/
 .env
 
-# ChromaDB
-chroma_db/
-chroma_db_final/
-
-# Embeddings
-embeddings_model_*.json
-
 # Node
 frontend/node_modules/
 frontend/dist/
